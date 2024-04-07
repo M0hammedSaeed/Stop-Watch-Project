@@ -15,3 +15,4 @@
 10. Configure External Interrupt INT2 with falling edge. Connect a push button with the
     internal pull-up resistor. If a falling edge detected the Stop Watch time should be
     resumed.
+![Simulation at Proteus](https://github.com/M0hammedSaeed/Stop-Watch-Project/assets/114070625/e05cc3f7-16f6-4fd2-ba0f-bd02e75fa3bc)
