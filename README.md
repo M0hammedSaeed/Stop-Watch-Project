@@ -1,4 +1,5 @@
 # Stop Watch System 
+## Implementation
 1. Used ATmega32 Microcontroller with frequency 8Mhz.
 2. Configure Timer1 in ATmega32 with CTC mode to count the Stop Watch time.
 3. Used six Common Anode 7-segments.
@@ -15,5 +16,10 @@
 10. Configure External Interrupt INT2 with falling edge. Connect a push button with the
     internal pull-up resistor. If a falling edge detected the Stop Watch time should be
     resumed.
+
+## Project Simulation    
 ![Simulation at Proteus](https://github.com/M0hammedSaeed/Stop-Watch-Project/assets/114070625/b89acbe8-ac03-4cb8-8673-632c511ada2b)
-![Project Design](https://github.com/M0hammedSaeed/Stop-Watch-Project/assets/114070625/b89acbe8-ac03-4cb8-8673-632c511ada2b)
+
+## Project Design 
+![Project Design](https://github.com/M0hammedSaeed/Stop-Watch-Project/assets/114070625/9a3c463e-275b-42fe-80a2-25092642720b)
+
